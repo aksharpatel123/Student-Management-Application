@@ -65,7 +65,7 @@ public class Student {
 		// System.out.println("TUITION BALANCE: " + tuitionBalance);
 	}
 	
-	// View balance
+	// View current balance
 	public void viewBalance() {
 		System.out.println("Your balance is: $" + tuitionBalance);
 	}
@@ -91,9 +91,6 @@ public class Student {
 	}
 
 }
-
-
-
 
 
 
