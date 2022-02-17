@@ -81,7 +81,7 @@ public class Student {
 		viewBalance();
 	}
 	
-	// Show status
+	// Show status (formatted string)
 	public String toString() {
 		return "Name: " + firstName + " " + lastName +
 				"\nGrade level: " + gradeYear +
@@ -91,7 +91,5 @@ public class Student {
 	}
 
 }
-
-
 
 
